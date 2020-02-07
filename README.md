@@ -33,3 +33,6 @@ You can also use `bin/examine` to play a saved policy on an environment. There a
 Note that to be able to play saved policies, you will need to install a few additional packages. You can do this via
 
 `pip install -r multi-agent-emergence-environments/requirements_ma_policy.txt`
+
+
+[![Run on Repl.it](https://repl.it/badge/github/openai/multi-agent-emergence-environments)](https://repl.it/github/openai/multi-agent-emergence-environments)
